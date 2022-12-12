@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizGUIDevonT</string>
+    <string name="greetings">Devon Tully.Magnificent TV Character Quiz!! </string>
+    <string name="question"> Who is this character?</string>
+    <string name="question2"> Who is this little devil?</string>
+    <string name="answer1"> Goku</string>
+    <string name="answer2"> Broly</string>
+    <string name="answer3"> Krillin</string>
+    <string name="answer4"> Cell</string>
+    <string name="answer5"> Kid Buu</string>
+    <string name="answer6"> Vegeta</string>
+    <string name="answer7"> Majin Buu</string>
+    <string name="clear"> Clear</string>
+
+
+</resources>
